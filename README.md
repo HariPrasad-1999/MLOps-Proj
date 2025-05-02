@@ -5,4 +5,4 @@
 * FastAPI
 * Database - MongoDB
 * CI/CD - GitHub Actions
-* Cloud - AWS
+* Cloud - AWS (IAM, ECR, EC2)
